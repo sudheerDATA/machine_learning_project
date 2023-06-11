@@ -8,7 +8,7 @@ This is my first machine learning project
 4.  [GIT Cli](https://git-scm.com/downloads)
 
 
-Create conda enverinoment
+🐍Create conda enverinoment
 ```
 conda create -p env_ML python==3.7 -y
 ```
