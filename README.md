@@ -54,8 +54,17 @@ To Add and Commit same time
 git add -am "message"
 ```
 
-To ignore file or folders add them into .gitignore file
+>Note: To ignore file or folders add them into .gitignore file
 
+To Check remote URL
+```
+git remote -v
+```
+
+To send version changes to github
+```
+git push origin main
+```
 
 
 
